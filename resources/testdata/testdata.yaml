@@ -1,0 +1,13 @@
+tc_01:
+  email: tewarach.p@doppiotech.com
+  password: Test1234@
+  confirm_password: Test1234@
+  search_value: phone
+  product: Doppee phone
+  name: Tewarach
+  surname: Permsin
+  address: Chiang Mai, 50210
+  phone_no: 0839489191
+  card_number: 4111111111111111
+  exp_date: 09/2027
+  cvc_code: 123

@@ -1,0 +1,5 @@
+GLOBAL_TIMEOUT: 10s
+
+url:
+  SIT: https://doppee.doppio-tech.com
+  UAT: https://training-platform.doppio-tech.com
